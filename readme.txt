@@ -6,11 +6,11 @@ Tags: json api, api, authenticate user, wordpress user authentication
 
 Contributors: parorrey
 
-Stable tag: 1.3
+Stable tag: 1.4
 
 Requires at least: 3.0.1
 
-Tested up to: 3.9.1
+Tested up to: 4.1
 
 License: GPLv2 or later
 
@@ -58,6 +58,10 @@ To install JSON API Auth just follow these steps:
 
 
 ==Changelog==
+
+= 1.4 =
+
+* update for WordPress 4.1
 
 = 1.3 =
 
